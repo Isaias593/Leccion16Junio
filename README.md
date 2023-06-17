@@ -23,5 +23,15 @@ Principal:
 Vista 1:
 
 ![](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/login.JPG))
-> Follow .
+
+Vista 2:
+
+![](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/tabla1.JPG))
+
+![](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/tabla2.JPG))
+
+
+vista 3:
+![](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/vista3.JPG))
+
 
