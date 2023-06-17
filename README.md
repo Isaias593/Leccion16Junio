@@ -2,8 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
-## Video
-
+## Video(Para ver el video ejecute el clic en la primera imagen)
 [![Haz clic para ver el video](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/123.JPG)](https://drive.google.com/file/d/1eKTt2Uaa9l_7dm1SKbHX_BHDt2dJVJXk/view?usp=sharing)
 
 
