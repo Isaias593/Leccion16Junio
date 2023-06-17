@@ -1,0 +1,19 @@
+<div class="text-center">
+    <h3>Seleccione una ventana</h3>
+    
+    </div>
+    <br>
+    <div class="texto">
+        <mat-button-toggle-group name="text-center" aria-label="Favorite Color">
+    
+            <mat-button-toggle [routerLink]="'/page1'">Vista 1</mat-button-toggle>
+            <mat-button-toggle [routerLink]="'/page2'">Vista 2</mat-button-toggle>
+            <mat-button-toggle [routerLink]="'/page3'">Vista 3</mat-button-toggle>
+
+            <mat-button-toggle (click)="exitApplication()">Exit</mat-button-toggle>
+    
+          
+        
+        </mat-button-toggle-group>
+    </div>
+    
