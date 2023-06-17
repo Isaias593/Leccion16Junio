@@ -15,9 +15,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ###Images
 
-Image:
+Principal:
 
-![](https://github.com/Isaias593/Taller-Migracionv1/blob/main/1111.JPG))
+![](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/main/123.JPG))
 
 
 > Follow .
