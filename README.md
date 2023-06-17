@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
-## Development server
+## Video
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://drive.google.com/file/d/1eKTt2Uaa9l_7dm1SKbHX_BHDt2dJVJXk/view?usp=sharing)
+[![Haz clic para ver el video](https://github.com/Isaias593/Leccion1P-CoronelZapaNainV1/blob/imgbranch/123.JPG)](https://drive.google.com/file/d/1eKTt2Uaa9l_7dm1SKbHX_BHDt2dJVJXk/view?usp=sharing)
 
 
 <!DOCTYPE html>
